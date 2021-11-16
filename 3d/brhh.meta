@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "8b756fa3-9160-4cd2-acdc-27c662a9d370",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "brhh",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

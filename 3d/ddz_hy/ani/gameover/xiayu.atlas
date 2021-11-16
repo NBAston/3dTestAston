@@ -1,0 +1,13 @@
+
+xiayu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yudi
+  rotate: false
+  xy: 2, 2
+  size: 590, 449
+  orig: 590, 449
+  offset: 0, 0
+  index: -1

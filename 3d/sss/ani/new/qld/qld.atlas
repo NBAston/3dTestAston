@@ -1,0 +1,321 @@
+
+qld.png
+size: 1420,1420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13s_gun
+  rotate: false
+  xy: 896, 947
+  size: 138, 251
+  orig: 197, 277
+  offset: 5, 13
+  index: -1
+bg_01
+  rotate: false
+  xy: 2, 1200
+  size: 1304, 218
+  orig: 1480, 230
+  offset: 72, 7
+  index: -1
+bg_02
+  rotate: false
+  xy: 2, 598
+  size: 598, 600
+  orig: 709, 652
+  offset: 57, 40
+  index: -1
+bg_03
+  rotate: false
+  xy: 2, 71
+  size: 526, 525
+  orig: 709, 652
+  offset: 88, 86
+  index: -1
+bg_04
+  rotate: true
+  xy: 1308, 1189
+  size: 229, 110
+  orig: 253, 130
+  offset: 12, 16
+  index: -1
+bg_05
+  rotate: false
+  xy: 602, 906
+  size: 292, 292
+  orig: 293, 292
+  offset: 0, 0
+  index: -1
+bg_06
+  rotate: false
+  xy: 530, 339
+  size: 255, 257
+  orig: 293, 292
+  offset: 21, 17
+  index: -1
+cloud
+  rotate: true
+  xy: 602, 598
+  size: 306, 229
+  orig: 317, 240
+  offset: 9, 10
+  index: -1
+gun_01
+  rotate: false
+  xy: 1165, 552
+  size: 35, 33
+  orig: 38, 37
+  offset: 2, 4
+  index: -1
+gun_02
+  rotate: false
+  xy: 787, 566
+  size: 32, 30
+  orig: 38, 37
+  offset: 1, 7
+  index: -1
+gun_fire_00
+  rotate: false
+  xy: 2, 10
+  size: 65, 59
+  orig: 200, 200
+  offset: 65, 71
+  index: -1
+gun_fire_01
+  rotate: false
+  xy: 1168, 791
+  size: 57, 70
+  orig: 200, 200
+  offset: 77, 71
+  index: -1
+gun_fire_02
+  rotate: true
+  xy: 1150, 2
+  size: 119, 103
+  orig: 200, 200
+  offset: 27, 67
+  index: -1
+gun_fire_03
+  rotate: false
+  xy: 1230, 399
+  size: 124, 93
+  orig: 200, 200
+  offset: 21, 85
+  index: -1
+gun_fire_04
+  rotate: true
+  xy: 1342, 109
+  size: 71, 76
+  orig: 200, 200
+  offset: 67, 60
+  index: -1
+gun_fire_05
+  rotate: false
+  xy: 1252, 182
+  size: 98, 93
+  orig: 200, 200
+  offset: 57, 55
+  index: -1
+gun_fire_06
+  rotate: false
+  xy: 1245, 617
+  size: 130, 131
+  orig: 200, 200
+  offset: 49, 33
+  index: -1
+gun_fire_07
+  rotate: false
+  xy: 530, 2
+  size: 148, 148
+  orig: 200, 200
+  offset: 41, 24
+  index: -1
+gun_fire_08
+  rotate: false
+  xy: 833, 544
+  size: 156, 161
+  orig: 200, 200
+  offset: 41, 17
+  index: -1
+gun_fire_09
+  rotate: false
+  xy: 991, 552
+  size: 172, 170
+  orig: 200, 200
+  offset: 27, 9
+  index: -1
+gun_fire_10
+  rotate: false
+  xy: 787, 369
+  size: 169, 173
+  orig: 200, 200
+  offset: 29, 7
+  index: -1
+gun_fire_11
+  rotate: false
+  xy: 530, 152
+  size: 176, 185
+  orig: 200, 200
+  offset: 22, 1
+  index: -1
+star
+  rotate: false
+  xy: 1255, 95
+  size: 85, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+word_01
+  rotate: false
+  xy: 1036, 863
+  size: 189, 165
+  orig: 200, 200
+  offset: 8, 20
+  index: -1
+word_02
+  rotate: false
+  xy: 1036, 1030
+  size: 189, 168
+  orig: 200, 200
+  offset: 6, 18
+  index: -1
+word_03
+  rotate: false
+  xy: 1227, 889
+  size: 185, 163
+  orig: 200, 200
+  offset: 7, 18
+  index: -1
+word_light_001
+  rotate: true
+  xy: 896, 910
+  size: 35, 42
+  orig: 502, 200
+  offset: 24, 88
+  index: -1
+word_light_002
+  rotate: false
+  xy: 1165, 587
+  size: 78, 135
+  orig: 502, 200
+  offset: 24, 37
+  index: -1
+word_light_003
+  rotate: false
+  xy: 1150, 123
+  size: 100, 135
+  orig: 502, 200
+  offset: 24, 37
+  index: -1
+word_light_004
+  rotate: false
+  xy: 1120, 260
+  size: 125, 135
+  orig: 502, 200
+  offset: 24, 37
+  index: -1
+word_light_005
+  rotate: true
+  xy: 1093, 397
+  size: 153, 135
+  orig: 502, 200
+  offset: 24, 37
+  index: -1
+word_light_006
+  rotate: true
+  xy: 1013, 14
+  size: 178, 135
+  orig: 502, 200
+  offset: 39, 37
+  index: -1
+word_light_007
+  rotate: true
+  xy: 708, 136
+  size: 201, 137
+  orig: 502, 200
+  offset: 52, 36
+  index: -1
+word_light_008
+  rotate: false
+  xy: 972, 724
+  size: 194, 137
+  orig: 502, 200
+  offset: 83, 36
+  index: -1
+word_light_009
+  rotate: false
+  xy: 1227, 750
+  size: 184, 137
+  orig: 502, 200
+  offset: 113, 36
+  index: -1
+word_light_010
+  rotate: true
+  xy: 874, 4
+  size: 168, 137
+  orig: 502, 200
+  offset: 143, 36
+  index: -1
+word_light_011
+  rotate: true
+  xy: 833, 707
+  size: 197, 137
+  orig: 502, 200
+  offset: 174, 36
+  index: -1
+word_light_012
+  rotate: true
+  xy: 847, 174
+  size: 193, 137
+  orig: 502, 200
+  offset: 203, 36
+  index: -1
+word_light_013
+  rotate: false
+  xy: 680, 2
+  size: 192, 132
+  orig: 502, 200
+  offset: 235, 36
+  index: -1
+word_light_014
+  rotate: true
+  xy: 986, 194
+  size: 192, 132
+  orig: 502, 200
+  offset: 265, 36
+  index: -1
+word_light_015
+  rotate: false
+  xy: 1227, 1054
+  size: 191, 133
+  orig: 502, 200
+  offset: 292, 35
+  index: -1
+word_light_016
+  rotate: true
+  xy: 958, 388
+  size: 154, 133
+  orig: 502, 200
+  offset: 330, 35
+  index: -1
+word_light_017
+  rotate: false
+  xy: 1245, 494
+  size: 132, 121
+  orig: 502, 200
+  offset: 352, 35
+  index: -1
+word_light_018
+  rotate: false
+  xy: 1247, 277
+  size: 96, 120
+  orig: 502, 200
+  offset: 388, 35
+  index: -1
+word_light_019
+  rotate: false
+  xy: 1345, 277
+  size: 73, 120
+  orig: 502, 200
+  offset: 411, 35
+  index: -1

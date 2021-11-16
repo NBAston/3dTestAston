@@ -1,0 +1,76 @@
+
+sg_tp.png
+size: 656,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 248
+  size: 312, 314
+  orig: 330, 330
+  offset: 10, 7
+  index: -1
+bg_light
+  rotate: false
+  xy: 308, 25
+  size: 164, 164
+  orig: 209, 176
+  offset: 22, 6
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 564
+  size: 594, 90
+  orig: 602, 105
+  offset: 8, 8
+  index: -1
+denglong
+  rotate: false
+  xy: 245, 34
+  size: 61, 212
+  orig: 70, 220
+  offset: 4, 8
+  index: -1
+shan_01
+  rotate: false
+  xy: 316, 191
+  size: 283, 119
+  orig: 284, 140
+  offset: 0, 9
+  index: -1
+shan_02
+  rotate: true
+  xy: 549, 494
+  size: 68, 65
+  orig: 91, 74
+  offset: 12, 9
+  index: -1
+shu_01
+  rotate: false
+  xy: 474, 87
+  size: 118, 102
+  orig: 160, 160
+  offset: 40, 4
+  index: -1
+shu_02
+  rotate: false
+  xy: 474, 5
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+word_01
+  rotate: false
+  xy: 316, 312
+  size: 231, 250
+  orig: 460, 400
+  offset: 123, 78
+  index: -1
+word_02
+  rotate: true
+  xy: 2, 2
+  size: 244, 241
+  orig: 460, 400
+  offset: 109, 74
+  index: -1

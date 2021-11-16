@@ -1,0 +1,146 @@
+
+sg_zhuang.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_001
+  rotate: true
+  xy: 184, 395
+  size: 95, 96
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+fire_002
+  rotate: false
+  xy: 99, 297
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_003
+  rotate: true
+  xy: 282, 395
+  size: 95, 96
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+fire_004
+  rotate: false
+  xy: 197, 297
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_005
+  rotate: false
+  xy: 295, 297
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_006
+  rotate: false
+  xy: 393, 297
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_007
+  rotate: false
+  xy: 2, 199
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_008
+  rotate: false
+  xy: 100, 199
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_009
+  rotate: false
+  xy: 198, 199
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_010
+  rotate: false
+  xy: 296, 199
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_011
+  rotate: false
+  xy: 394, 199
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_012
+  rotate: false
+  xy: 2, 101
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_013
+  rotate: false
+  xy: 100, 101
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_014
+  rotate: false
+  xy: 198, 101
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_015
+  rotate: false
+  xy: 296, 101
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_016
+  rotate: false
+  xy: 394, 101
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire_017
+  rotate: true
+  xy: 380, 395
+  size: 95, 96
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+fire_018
+  rotate: false
+  xy: 2, 303
+  size: 95, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+fire_019
+  rotate: false
+  xy: 88, 400
+  size: 94, 90
+  orig: 96, 96
+  offset: 2, 1
+  index: -1
+sg_zhuang
+  rotate: true
+  xy: 2, 411
+  size: 79, 84
+  orig: 84, 84
+  offset: 3, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+holes.png
+size: 136,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+holse_01
+  rotate: true
+  xy: 84, 28
+  size: 53, 49
+  orig: 110, 110
+  offset: 29, 33
+  index: -1
+holse_02
+  rotate: true
+  xy: 2, 2
+  size: 79, 80
+  orig: 110, 110
+  offset: 14, 16
+  index: -1

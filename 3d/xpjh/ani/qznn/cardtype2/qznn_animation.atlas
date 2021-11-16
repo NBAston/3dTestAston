@@ -1,0 +1,377 @@
+
+qznn_animation.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+qznn_cardtype_nimation_aperture
+  rotate: false
+  xy: 784, 983
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_aperture_light01
+  rotate: false
+  xy: 784, 801
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_aperture_light02
+  rotate: false
+  xy: 784, 619
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_aperture_light03
+  rotate: false
+  xy: 1792, 1651
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_aperture_light04
+  rotate: false
+  xy: 784, 437
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_aperture_light05
+  rotate: false
+  xy: 780, 255
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bomb01
+  rotate: false
+  xy: 2, 2
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bomb02
+  rotate: false
+  xy: 678, 105
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim01
+  rotate: false
+  xy: 2, 905
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim02
+  rotate: false
+  xy: 374, 1137
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim03
+  rotate: false
+  xy: 746, 1369
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim04
+  rotate: false
+  xy: 1118, 1601
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim05
+  rotate: false
+  xy: 1490, 1833
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim06
+  rotate: false
+  xy: 2, 717
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim07
+  rotate: false
+  xy: 1762, 1833
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim08
+  rotate: false
+  xy: 2, 529
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombanim09
+  rotate: false
+  xy: 2, 341
+  size: 270, 186
+  orig: 270, 186
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bombtext
+  rotate: true
+  xy: 274, 791
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull
+  rotate: false
+  xy: 2, 128
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull-bombboard
+  rotate: false
+  xy: 746, 1267
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull1-6board
+  rotate: false
+  xy: 1118, 1499
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull1text
+  rotate: true
+  xy: 274, 489
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull2text
+  rotate: true
+  xy: 376, 835
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull3text
+  rotate: true
+  xy: 376, 533
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull4text
+  rotate: true
+  xy: 478, 835
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull5text
+  rotate: true
+  xy: 478, 533
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull6text
+  rotate: true
+  xy: 580, 835
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull7-9board
+  rotate: true
+  xy: 274, 187
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull7text
+  rotate: true
+  xy: 580, 533
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull8text
+  rotate: false
+  xy: 1490, 1731
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bull9text
+  rotate: false
+  xy: 376, 431
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_bulltext
+  rotate: false
+  xy: 376, 329
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_nobull_crow01
+  rotate: true
+  xy: 204, 222
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_nobull_crow02
+  rotate: true
+  xy: 204, 103
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_nobull_crow03
+  rotate: true
+  xy: 134, 9
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_nobullboard
+  rotate: false
+  xy: 376, 227
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_nobulltext
+  rotate: false
+  xy: 376, 125
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_sihuabulltext
+  rotate: true
+  xy: 678, 231
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull
+  rotate: false
+  xy: 2, 1789
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_hua01
+  rotate: true
+  xy: 646, 1267
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_hua02
+  rotate: false
+  xy: 1390, 1727
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light01
+  rotate: false
+  xy: 2, 1557
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light02
+  rotate: false
+  xy: 374, 1789
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light03
+  rotate: false
+  xy: 2, 1325
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light04
+  rotate: false
+  xy: 374, 1557
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light05
+  rotate: false
+  xy: 746, 1789
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light06
+  rotate: false
+  xy: 2, 1093
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light07
+  rotate: false
+  xy: 374, 1325
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light08
+  rotate: false
+  xy: 746, 1557
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabull_light09
+  rotate: false
+  xy: 1118, 1789
+  size: 370, 230
+  orig: 370, 230
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabullboard
+  rotate: false
+  xy: 646, 1165
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuhuabulltext
+  rotate: true
+  xy: 682, 863
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+qznn_cardtype_nimation_wuxiaobulltext
+  rotate: true
+  xy: 682, 561
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1

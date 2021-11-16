@@ -1,0 +1,76 @@
+
+13s_lpz.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lp_01
+  rotate: false
+  xy: 16, 371
+  size: 129, 31
+  orig: 260, 78
+  offset: 52, 22
+  index: -1
+lp_02
+  rotate: false
+  xy: 2, 390
+  size: 12, 12
+  orig: 260, 78
+  offset: 51, 19
+  index: -1
+lp_bg
+  rotate: false
+  xy: 120, 285
+  size: 282, 43
+  orig: 301, 58
+  offset: 2, 9
+  index: -1
+lp_light_01
+  rotate: true
+  xy: 221, 333
+  size: 69, 72
+  orig: 260, 78
+  offset: 10, 3
+  index: -1
+lp_light_02
+  rotate: false
+  xy: 295, 330
+  size: 104, 72
+  orig: 260, 78
+  offset: 15, 3
+  index: -1
+lp_light_03
+  rotate: false
+  xy: 2, 297
+  size: 116, 72
+  orig: 260, 78
+  offset: 44, 3
+  index: -1
+lp_light_04
+  rotate: false
+  xy: 120, 211
+  size: 117, 72
+  orig: 260, 78
+  offset: 82, 3
+  index: -1
+lp_light_05
+  rotate: false
+  xy: 2, 223
+  size: 116, 72
+  orig: 260, 78
+  offset: 121, 3
+  index: -1
+lp_light_06
+  rotate: false
+  xy: 239, 211
+  size: 99, 72
+  orig: 260, 78
+  offset: 161, 3
+  index: -1
+lp_light_07
+  rotate: true
+  xy: 147, 344
+  size: 58, 72
+  orig: 260, 78
+  offset: 202, 3
+  index: -1

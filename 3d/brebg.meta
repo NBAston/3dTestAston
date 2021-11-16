@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "51909bb6-9940-4cb7-ac5c-39c941818dda",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "brebg",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

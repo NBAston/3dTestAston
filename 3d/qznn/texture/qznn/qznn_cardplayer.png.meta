@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "55fdedb0-dc45-4fa2-857b-5b17091c6dd0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "qznn_cardplayer": {
+      "ver": "1.0.6",
+      "uuid": "c222c51e-74ce-4eba-a7f9-279761355d15",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "55fdedb0-dc45-4fa2-857b-5b17091c6dd0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 450,
+      "height": 62,
+      "rawWidth": 450,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,90 @@
+
+meishuzi.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10lians
+  rotate: false
+  xy: 2, 4
+  size: 288, 94
+  orig: 288, 94
+  offset: 0, 0
+  index: -1
+2lians
+  rotate: false
+  xy: 353, 106
+  size: 240, 94
+  orig: 240, 94
+  offset: 0, 0
+  index: -1
+3lians
+  rotate: false
+  xy: 836, 106
+  size: 238, 94
+  orig: 238, 94
+  offset: 0, 0
+  index: -1
+4lians
+  rotate: false
+  xy: 595, 106
+  size: 239, 94
+  orig: 239, 94
+  offset: 0, 0
+  index: -1
+5lians
+  rotate: false
+  xy: 1076, 106
+  size: 238, 94
+  orig: 238, 94
+  offset: 0, 0
+  index: -1
+6lians
+  rotate: false
+  xy: 1796, 106
+  size: 236, 94
+  orig: 236, 94
+  offset: 0, 0
+  index: -1
+7lians
+  rotate: false
+  xy: 353, 10
+  size: 230, 94
+  orig: 230, 94
+  offset: 0, 0
+  index: -1
+8lians
+  rotate: false
+  xy: 1316, 106
+  size: 238, 94
+  orig: 238, 94
+  offset: 0, 0
+  index: -1
+9lians
+  rotate: false
+  xy: 1556, 106
+  size: 238, 94
+  orig: 238, 94
+  offset: 0, 0
+  index: -1
+lanshibai
+  rotate: false
+  xy: 585, 2
+  size: 190, 102
+  orig: 190, 102
+  offset: 0, 0
+  index: -1
+lianszd
+  rotate: false
+  xy: 2, 100
+  size: 349, 100
+  orig: 349, 100
+  offset: 0, 0
+  index: -1
+shengli
+  rotate: false
+  xy: 777, 12
+  size: 184, 92
+  orig: 184, 92
+  offset: 0, 0
+  index: -1

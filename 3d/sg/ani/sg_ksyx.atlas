@@ -1,0 +1,272 @@
+
+sg_ksyx.png
+size: 996,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 990, 137
+  orig: 999, 146
+  offset: 5, 5
+  index: -1
+hua_01_01
+  rotate: true
+  xy: 110, 963
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+hua_01_02
+  rotate: true
+  xy: 801, 935
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+hua_01_03
+  rotate: true
+  xy: 221, 956
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+hua_01_04
+  rotate: false
+  xy: 34, 965
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+hua_01_05
+  rotate: true
+  xy: 450, 942
+  size: 52, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+hua_01_06
+  rotate: false
+  xy: 667, 940
+  size: 71, 54
+  orig: 72, 55
+  offset: 0, 1
+  index: -1
+hua_01_07
+  rotate: false
+  xy: 148, 959
+  size: 71, 35
+  orig: 72, 36
+  offset: 0, 1
+  index: -1
+hua_02_01
+  rotate: false
+  xy: 2, 966
+  size: 30, 28
+  orig: 31, 30
+  offset: 1, 1
+  index: -1
+hua_02_02
+  rotate: true
+  xy: 377, 944
+  size: 50, 71
+  orig: 50, 72
+  offset: 0, 1
+  index: -1
+hua_02_03
+  rotate: false
+  xy: 532, 941
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+hua_02_04
+  rotate: false
+  xy: 599, 941
+  size: 66, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+hua_02_05
+  rotate: true
+  xy: 311, 947
+  size: 47, 64
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+hua_02_06
+  rotate: false
+  xy: 740, 937
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+leaves
+  rotate: false
+  xy: 131, 848
+  size: 114, 106
+  orig: 120, 120
+  offset: 3, 6
+  index: -1
+word_01
+  rotate: false
+  xy: 247, 819
+  size: 183, 123
+  orig: 190, 190
+  offset: 3, 29
+  index: -1
+word_02
+  rotate: false
+  xy: 432, 811
+  size: 177, 128
+  orig: 190, 190
+  offset: 7, 28
+  index: -1
+word_03
+  rotate: false
+  xy: 611, 804
+  size: 183, 131
+  orig: 190, 190
+  offset: 4, 24
+  index: -1
+word_04
+  rotate: false
+  xy: 796, 774
+  size: 184, 131
+  orig: 190, 190
+  offset: 3, 25
+  index: -1
+word_box
+  rotate: false
+  xy: 471, 142
+  size: 185, 189
+  orig: 190, 190
+  offset: 2, 1
+  index: -1
+words_light_001
+  rotate: true
+  xy: 867, 907
+  size: 87, 120
+  orig: 825, 190
+  offset: 12, 52
+  index: -1
+words_light_002
+  rotate: true
+  xy: 2, 709
+  size: 137, 145
+  orig: 825, 190
+  offset: 12, 27
+  index: -1
+words_light_003
+  rotate: false
+  xy: 306, 661
+  size: 176, 148
+  orig: 825, 190
+  offset: 13, 24
+  index: -1
+words_light_004
+  rotate: false
+  xy: 702, 619
+  size: 196, 153
+  orig: 825, 190
+  offset: 32, 19
+  index: -1
+words_light_005
+  rotate: false
+  xy: 2, 521
+  size: 239, 153
+  orig: 825, 190
+  offset: 58, 19
+  index: -1
+words_light_006
+  rotate: false
+  xy: 243, 506
+  size: 237, 153
+  orig: 825, 190
+  offset: 113, 19
+  index: -1
+words_light_007
+  rotate: false
+  xy: 482, 494
+  size: 207, 157
+  orig: 825, 190
+  offset: 180, 19
+  index: -1
+words_light_008
+  rotate: false
+  xy: 660, 301
+  size: 219, 158
+  orig: 825, 190
+  offset: 222, 18
+  index: -1
+words_light_009
+  rotate: false
+  xy: 691, 461
+  size: 241, 156
+  orig: 825, 190
+  offset: 253, 18
+  index: -1
+words_light_010
+  rotate: false
+  xy: 2, 363
+  size: 238, 156
+  orig: 825, 190
+  offset: 307, 18
+  index: -1
+words_light_011
+  rotate: false
+  xy: 242, 348
+  size: 230, 156
+  orig: 825, 190
+  offset: 353, 19
+  index: -1
+words_light_012
+  rotate: false
+  xy: 2, 200
+  size: 223, 161
+  orig: 825, 190
+  offset: 417, 14
+  index: -1
+words_light_013
+  rotate: false
+  xy: 658, 141
+  size: 246, 158
+  orig: 825, 190
+  offset: 454, 14
+  index: -1
+words_light_014
+  rotate: false
+  xy: 227, 185
+  size: 242, 161
+  orig: 825, 190
+  offset: 505, 15
+  index: -1
+words_light_015
+  rotate: false
+  xy: 484, 653
+  size: 216, 149
+  orig: 825, 190
+  offset: 556, 27
+  index: -1
+words_light_016
+  rotate: false
+  xy: 474, 333
+  size: 184, 159
+  orig: 825, 190
+  offset: 610, 16
+  index: -1
+words_light_017
+  rotate: true
+  xy: 149, 676
+  size: 141, 155
+  orig: 825, 190
+  offset: 660, 15
+  index: -1
+words_light_018
+  rotate: true
+  xy: 2, 870
+  size: 91, 127
+  orig: 825, 190
+  offset: 710, 15
+  index: -1

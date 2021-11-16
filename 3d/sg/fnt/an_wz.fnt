@@ -1,0 +1,23 @@
+info face="微软雅黑" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=1,0,0,0 spacing=0,1 outline=0
+common lineHeight=32 base=26 scaleW=350 scaleH=84 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="an_wz_0.png"
+chars count=19
+char id=48   x=41    y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=49   x=320   y=42    width=24    height=41    xoffset=0     yoffset=-1    xadvance=24    page=0  chnl=15
+char id=50   x=72    y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=51   x=103   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=52   x=134   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=53   x=165   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=54   x=196   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=55   x=227   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=56   x=258   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=57   x=289   y=42    width=31    height=41    xoffset=0     yoffset=-1    xadvance=31    page=0  chnl=15
+char id=20493 x=0     y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=24196 x=41    y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=24320 x=82    y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=25103 x=123   y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=25250 x=164   y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=28216 x=205   y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=29260 x=246   y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=32487 x=287   y=0     width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15
+char id=32493 x=0     y=42    width=41    height=41    xoffset=0     yoffset=-1    xadvance=41    page=0  chnl=15

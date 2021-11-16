@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "52d334df-25fa-4614-8724-1d8729983040",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "pdk_hy",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

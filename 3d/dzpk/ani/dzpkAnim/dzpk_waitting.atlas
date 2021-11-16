@@ -1,0 +1,69 @@
+
+dzpk_waitting.png
+size: 448,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: false
+  xy: 61, 296
+  size: 348, 229
+  orig: 600, 600
+  offset: 125, 138
+  index: -1
+bg_02
+  rotate: false
+  xy: 215, 0
+  size: 102, 118
+  orig: 120, 140
+  offset: 13, 10
+  index: -1
+bg_04
+  rotate: true
+  xy: 288, 121
+  size: 173, 157
+  orig: 200, 200
+  offset: 14, 21
+  index: -1
+bg_04_light
+  rotate: true
+  xy: 61, 68
+  size: 226, 147
+  orig: 260, 260
+  offset: 30, 113
+  index: -1
+light_01
+  rotate: true
+  xy: 210, 120
+  size: 174, 76
+  orig: 200, 120
+  offset: 14, 21
+  index: -1
+light_02
+  rotate: false
+  xy: 319, 29
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 61, 2
+  size: 152, 64
+  orig: 200, 120
+  offset: 24, 23
+  index: -1
+word
+  rotate: true
+  xy: 0, 7
+  size: 518, 59
+  orig: 600, 600
+  offset: 48, 217
+  index: -1
+word_01
+  rotate: false
+  xy: 411, 500
+  size: 30, 25
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

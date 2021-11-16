@@ -1,0 +1,293 @@
+
+dz_btns.png
+size: 936,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_blue
+  rotate: false
+  xy: 236, 169
+  size: 110, 46
+  orig: 126, 64
+  offset: 8, 10
+  index: -1
+btn_green
+  rotate: false
+  xy: 348, 169
+  size: 110, 46
+  orig: 120, 58
+  offset: 5, 7
+  index: -1
+btn_orange
+  rotate: true
+  xy: 891, 26
+  size: 80, 34
+  orig: 126, 64
+  offset: 23, 15
+  index: -1
+btn_red
+  rotate: false
+  xy: 460, 169
+  size: 110, 46
+  orig: 126, 64
+  offset: 8, 10
+  index: -1
+btn_yellow
+  rotate: false
+  xy: 572, 169
+  size: 110, 46
+  orig: 126, 64
+  offset: 8, 10
+  index: -1
+light_001
+  rotate: false
+  xy: 708, 222
+  size: 116, 43
+  orig: 126, 64
+  offset: 5, 13
+  index: -1
+light_002
+  rotate: false
+  xy: 236, 217
+  size: 116, 48
+  orig: 126, 64
+  offset: 5, 9
+  index: -1
+light_003
+  rotate: false
+  xy: 2, 214
+  size: 115, 51
+  orig: 126, 64
+  offset: 5, 9
+  index: -1
+light_004
+  rotate: false
+  xy: 119, 108
+  size: 109, 51
+  orig: 126, 64
+  offset: 8, 9
+  index: -1
+light_005
+  rotate: false
+  xy: 826, 214
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_006
+  rotate: false
+  xy: 114, 55
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_007
+  rotate: false
+  xy: 113, 2
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_008
+  rotate: false
+  xy: 826, 161
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_009
+  rotate: false
+  xy: 231, 116
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_010
+  rotate: false
+  xy: 341, 116
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_011
+  rotate: false
+  xy: 451, 116
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_012
+  rotate: false
+  xy: 561, 116
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_013
+  rotate: false
+  xy: 230, 63
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_014
+  rotate: false
+  xy: 340, 63
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_015
+  rotate: false
+  xy: 450, 63
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_016
+  rotate: false
+  xy: 119, 161
+  size: 110, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_017
+  rotate: false
+  xy: 2, 161
+  size: 115, 51
+  orig: 126, 64
+  offset: 6, 9
+  index: -1
+light_018
+  rotate: false
+  xy: 354, 217
+  size: 116, 48
+  orig: 126, 64
+  offset: 5, 9
+  index: -1
+light_019
+  rotate: false
+  xy: 708, 177
+  size: 116, 43
+  orig: 126, 64
+  offset: 5, 13
+  index: -1
+light_020
+  rotate: false
+  xy: 472, 217
+  size: 116, 48
+  orig: 126, 64
+  offset: 5, 9
+  index: -1
+light_021
+  rotate: false
+  xy: 119, 214
+  size: 115, 51
+  orig: 126, 64
+  offset: 5, 9
+  index: -1
+light_022
+  rotate: false
+  xy: 2, 2
+  size: 109, 51
+  orig: 126, 64
+  offset: 8, 9
+  index: -1
+light_023
+  rotate: false
+  xy: 560, 63
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_024
+  rotate: false
+  xy: 224, 10
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_025
+  rotate: false
+  xy: 334, 10
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_026
+  rotate: false
+  xy: 444, 10
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_027
+  rotate: false
+  xy: 554, 10
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_028
+  rotate: false
+  xy: 684, 124
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_029
+  rotate: false
+  xy: 794, 108
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_030
+  rotate: false
+  xy: 671, 71
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_031
+  rotate: false
+  xy: 781, 55
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_032
+  rotate: false
+  xy: 670, 18
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_033
+  rotate: false
+  xy: 780, 2
+  size: 108, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_034
+  rotate: false
+  xy: 2, 55
+  size: 110, 51
+  orig: 126, 64
+  offset: 9, 9
+  index: -1
+light_035
+  rotate: false
+  xy: 2, 108
+  size: 115, 51
+  orig: 126, 64
+  offset: 6, 9
+  index: -1
+light_036
+  rotate: false
+  xy: 590, 217
+  size: 116, 48
+  orig: 126, 64
+  offset: 5, 9
+  index: -1

@@ -1,0 +1,270 @@
+
+wangzha.png
+size: 2036,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rocket
+  rotate: true
+  xy: 610, 1698
+  size: 230, 381
+  orig: 240, 394
+  offset: 5, 6
+  index: -1
+Rocket_Fire1
+  rotate: true
+  xy: 1148, 1927
+  size: 104, 261
+  orig: 132, 284
+  offset: 13, 18
+  index: -1
+Rocket_Fire2
+  rotate: true
+  xy: 882, 1930
+  size: 101, 264
+  orig: 132, 284
+  offset: 16, 1
+  index: -1
+Rocket_Fog1
+  rotate: false
+  xy: 1411, 1860
+  size: 233, 171
+  orig: 240, 198
+  offset: 0, 23
+  index: -1
+Rocket_Fog2
+  rotate: false
+  xy: 1646, 1856
+  size: 206, 175
+  orig: 240, 198
+  offset: 28, 1
+  index: -1
+bao-g
+  rotate: false
+  xy: 243, 1728
+  size: 365, 227
+  orig: 365, 227
+  offset: 0, 0
+  index: -1
+boooom_0001
+  rotate: false
+  xy: 2, 1787
+  size: 239, 183
+  orig: 900, 900
+  offset: 317, 112
+  index: -1
+boooom_0002
+  rotate: false
+  xy: 993, 1623
+  size: 433, 235
+  orig: 900, 900
+  offset: 220, 106
+  index: -1
+boooom_0003
+  rotate: false
+  xy: 1428, 1503
+  size: 494, 306
+  orig: 900, 900
+  offset: 196, 105
+  index: -1
+boooom_0004
+  rotate: false
+  xy: 2, 1359
+  size: 558, 367
+  orig: 900, 900
+  offset: 175, 97
+  index: -1
+boooom_0005
+  rotate: false
+  xy: 562, 1231
+  size: 523, 390
+  orig: 900, 900
+  offset: 179, 92
+  index: -1
+boooom_0006
+  rotate: false
+  xy: 914, 562
+  size: 870, 530
+  orig: 900, 900
+  offset: 14, 33
+  index: -1
+boooom_0008
+  rotate: false
+  xy: 2, 210
+  size: 598, 580
+  orig: 900, 900
+  offset: 140, 101
+  index: -1
+rocket_001
+  rotate: false
+  xy: 703, 1952
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+rocket_002
+  rotate: true
+  xy: 309, 1970
+  size: 61, 72
+  orig: 89, 79
+  offset: 15, 5
+  index: -1
+rocket_003
+  rotate: true
+  xy: 383, 1964
+  size: 67, 75
+  orig: 89, 79
+  offset: 11, 3
+  index: -1
+rocket_004
+  rotate: false
+  xy: 620, 1955
+  size: 81, 76
+  orig: 89, 79
+  offset: 2, 2
+  index: -1
+rocket_005
+  rotate: true
+  xy: 542, 1957
+  size: 74, 76
+  orig: 89, 79
+  offset: 6, 2
+  index: -1
+rocket_006
+  rotate: false
+  xy: 460, 1961
+  size: 80, 70
+  orig: 89, 79
+  offset: 4, 5
+  index: -1
+rocket_007
+  rotate: false
+  xy: 223, 1972
+  size: 84, 59
+  orig: 89, 79
+  offset: 1, 10
+  index: -1
+rocket_008
+  rotate: false
+  xy: 132, 1973
+  size: 89, 58
+  orig: 89, 79
+  offset: 0, 11
+  index: -1
+rocket_009
+  rotate: false
+  xy: 794, 1952
+  size: 86, 79
+  orig: 89, 79
+  offset: 1, 0
+  index: -1
+stone_01
+  rotate: false
+  xy: 68, 1985
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+stone_02
+  rotate: false
+  xy: 2, 2012
+  size: 25, 19
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+stone_03
+  rotate: false
+  xy: 29, 2002
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 792
+  size: 910, 437
+  orig: 910, 446
+  offset: 0, 3
+  index: -1
+zha-g1
+  rotate: false
+  xy: 1854, 1811
+  size: 177, 220
+  orig: 177, 220
+  offset: 0, 0
+  index: -1
+zha-g2
+  rotate: false
+  xy: 1087, 1094
+  size: 481, 407
+  orig: 481, 407
+  offset: 0, 0
+  index: -1
+
+wangzha2.png
+size: 1688,1688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boooom_0009
+  rotate: false
+  xy: 2, 1087
+  size: 619, 596
+  orig: 900, 900
+  offset: 131, 101
+  index: -1
+boooom_0010
+  rotate: false
+  xy: 623, 1052
+  size: 754, 631
+  orig: 900, 900
+  offset: 79, 101
+  index: -1
+boooom_0011
+  rotate: false
+  xy: 2, 327
+  size: 838, 723
+  orig: 900, 900
+  offset: 37, 98
+  index: -1
+boooom_0012
+  rotate: false
+  xy: 842, 317
+  size: 841, 733
+  orig: 900, 900
+  offset: 34, 97
+  index: -1
+
+wangzha3.png
+size: 1584,1584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boooom_0007
+  rotate: true
+  xy: 814, 766
+  size: 814, 766
+  orig: 900, 900
+  offset: 41, 47
+  index: -1
+boooom_0013
+  rotate: false
+  xy: 780, 7
+  size: 795, 757
+  orig: 900, 900
+  offset: 67, 76
+  index: -1
+boooom_0014
+  rotate: false
+  xy: 2, 803
+  size: 810, 777
+  orig: 900, 900
+  offset: 55, 83
+  index: -1
+boooom_0015
+  rotate: true
+  xy: 2, 5
+  size: 796, 776
+  orig: 900, 900
+  offset: 52, 90
+  index: -1

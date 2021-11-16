@@ -1,0 +1,349 @@
+
+pdk_win_lose_girl_01.png
+size: 2036,1324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_01/body
+  rotate: false
+  xy: 886, 16
+  size: 153, 196
+  orig: 153, 196
+  offset: 0, 0
+  index: -1
+girl_01/girl_01
+  rotate: false
+  xy: 1104, 701
+  size: 539, 621
+  orig: 539, 623
+  offset: 0, 0
+  index: -1
+girl_01/hair_001
+  rotate: true
+  xy: 982, 261
+  size: 97, 118
+  orig: 98, 118
+  offset: 1, 0
+  index: -1
+girl_01/hair_002
+  rotate: true
+  xy: 325, 160
+  size: 198, 317
+  orig: 198, 318
+  offset: 0, 1
+  index: -1
+girl_01/hair_003
+  rotate: false
+  xy: 1616, 78
+  size: 79, 171
+  orig: 81, 172
+  offset: 2, 1
+  index: -1
+girl_01/hair_004
+  rotate: true
+  xy: 505, 27
+  size: 28, 119
+  orig: 28, 119
+  offset: 0, 0
+  index: -1
+girl_01/hair_005
+  rotate: true
+  xy: 505, 2
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+girl_01/hair_006
+  rotate: false
+  xy: 248, 9
+  size: 75, 119
+  orig: 75, 119
+  offset: 0, 0
+  index: -1
+girl_01/hair_007
+  rotate: true
+  xy: 1697, 23
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+girl_01/hair_008
+  rotate: false
+  xy: 1918, 195
+  size: 115, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+girl_01/hair_009
+  rotate: false
+  xy: 1987, 769
+  size: 21, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+girl_01/head_01
+  rotate: false
+  xy: 1930, 291
+  size: 104, 132
+  orig: 104, 132
+  offset: 0, 0
+  index: -1
+girl_01/head_02
+  rotate: false
+  xy: 399, 26
+  size: 104, 132
+  orig: 104, 132
+  offset: 0, 0
+  index: -1
+girl_01/liuhai
+  rotate: true
+  xy: 1604, 12
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+girl_01/piaodai_01
+  rotate: true
+  xy: 1847, 179
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+girl_01/piaodai_02
+  rotate: false
+  xy: 1918, 163
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+girl_01/qunzi_01
+  rotate: false
+  xy: 1226, 42
+  size: 216, 99
+  orig: 216, 99
+  offset: 0, 0
+  index: -1
+girl_01/qunzi_02
+  rotate: false
+  xy: 2, 130
+  size: 321, 228
+  orig: 321, 228
+  offset: 0, 0
+  index: -1
+girl_01/youshou
+  rotate: false
+  xy: 1444, 26
+  size: 158, 71
+  orig: 158, 71
+  offset: 0, 0
+  index: -1
+girl_01/youtui
+  rotate: true
+  xy: 644, 32
+  size: 180, 240
+  orig: 180, 240
+  offset: 0, 0
+  index: -1
+girl_01/youxiu
+  rotate: true
+  xy: 1697, 92
+  size: 101, 142
+  orig: 101, 142
+  offset: 0, 0
+  index: -1
+girl_01/zuoshou
+  rotate: false
+  xy: 2, 18
+  size: 244, 110
+  orig: 244, 110
+  offset: 0, 0
+  index: -1
+girl_01/zuotui
+  rotate: false
+  xy: 1041, 31
+  size: 183, 218
+  orig: 183, 218
+  offset: 0, 0
+  index: -1
+girl_01/zuoxiu_01
+  rotate: false
+  xy: 505, 57
+  size: 132, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+girl_01/zuoxiu_02
+  rotate: true
+  xy: 1463, 99
+  size: 150, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+gold_01
+  rotate: false
+  xy: 1645, 735
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+gold_02
+  rotate: false
+  xy: 982, 229
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+gold_03
+  rotate: false
+  xy: 2014, 1292
+  size: 20, 30
+  orig: 30, 30
+  offset: 5, 0
+  index: -1
+gold_04
+  rotate: true
+  xy: 1014, 251
+  size: 8, 30
+  orig: 30, 30
+  offset: 11, 0
+  index: -1
+gold_05
+  rotate: true
+  xy: 399, 3
+  size: 21, 30
+  orig: 30, 30
+  offset: 4, 0
+  index: -1
+gold_06
+  rotate: false
+  xy: 1645, 703
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+lose_bg_light
+  rotate: false
+  xy: 1695, 531
+  size: 233, 234
+  orig: 280, 280
+  offset: 24, 22
+  index: -1
+lose_box
+  rotate: false
+  xy: 2, 842
+  size: 1100, 480
+  orig: 1100, 480
+  offset: 0, 0
+  index: -1
+lose_top_box
+  rotate: false
+  xy: 1645, 767
+  size: 340, 71
+  orig: 350, 76
+  offset: 5, 2
+  index: -1
+lose_ye
+  rotate: false
+  xy: 644, 214
+  size: 336, 144
+  orig: 336, 144
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 2002, 161
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1041, 2
+  size: 27, 27
+  orig: 32, 32
+  offset: 2, 2
+  index: -1
+win_bg_light
+  rotate: false
+  xy: 1695, 295
+  size: 233, 234
+  orig: 280, 280
+  offset: 24, 22
+  index: -1
+win_box
+  rotate: false
+  xy: 2, 360
+  size: 1100, 480
+  orig: 1100, 480
+  offset: 0, 0
+  index: -1
+win_top_box
+  rotate: true
+  xy: 1930, 425
+  size: 340, 71
+  orig: 350, 76
+  offset: 5, 2
+  index: -1
+win_ye_01
+  rotate: false
+  xy: 1226, 143
+  size: 235, 106
+  orig: 235, 106
+  offset: 0, 0
+  index: -1
+win_ye_02
+  rotate: true
+  xy: 325, 2
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+win_ye_03
+  rotate: false
+  xy: 1697, 195
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+word_lose_01
+  rotate: false
+  xy: 1921, 13
+  size: 73, 73
+  orig: 76, 76
+  offset: 2, 0
+  index: -1
+word_lose_02
+  rotate: true
+  xy: 1841, 101
+  size: 76, 73
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+word_win_01
+  rotate: true
+  xy: 1846, 23
+  size: 76, 73
+  orig: 76, 76
+  offset: 0, 2
+  index: -1
+word_win_02
+  rotate: false
+  xy: 1921, 88
+  size: 76, 73
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+yudi
+  rotate: false
+  xy: 1104, 251
+  size: 589, 448
+  orig: 590, 449
+  offset: 1, 1
+  index: -1
+zs_01
+  rotate: true
+  xy: 1645, 840
+  size: 482, 367
+  orig: 590, 449
+  offset: 24, 51
+  index: -1

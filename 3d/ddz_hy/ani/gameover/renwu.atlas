@@ -1,0 +1,34 @@
+
+renwu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JS
+  rotate: false
+  xy: 1520, 78
+  size: 415, 405
+  orig: 415, 405
+  offset: 0, 0
+  index: -1
+dizhuku
+  rotate: false
+  xy: 2, 113
+  size: 665, 370
+  orig: 667, 372
+  offset: 1, 1
+  index: -1
+dizhushengli
+  rotate: false
+  xy: 669, 23
+  size: 425, 460
+  orig: 427, 462
+  offset: 1, 1
+  index: -1
+js2
+  rotate: false
+  xy: 1096, 2
+  size: 422, 481
+  orig: 422, 481
+  offset: 0, 0
+  index: -1

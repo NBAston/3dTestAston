@@ -1,0 +1,25 @@
+info face="微软雅黑" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=1,0,0,0 spacing=0,1 outline=0
+common lineHeight=32 base=26 scaleW=270 scaleH=66 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="ts_wz_0.png"
+chars count=21
+char id=44   x=261   y=0     width=9     height=29    xoffset=0     yoffset=-1    xadvance=9     page=0  chnl=15
+char id=46   x=232   y=30    width=9     height=29    xoffset=0     yoffset=-1    xadvance=9     page=0  chnl=15
+char id=12290 x=241   y=30    width=9     height=29    xoffset=0     yoffset=-1    xadvance=9     page=0  chnl=15
+char id=19979 x=0     y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=20142 x=29    y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=20182 x=58    y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=20854 x=87    y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=23478 x=116   y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=24050 x=145   y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=24196 x=174   y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=24453 x=203   y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=24744 x=232   y=0     width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=25250 x=0     y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=26159 x=29    y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=27880 x=58    y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=29260 x=87    y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=29609 x=116   y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=31561 x=145   y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=35831 x=174   y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=38386 x=203   y=30    width=29    height=29    xoffset=0     yoffset=-1    xadvance=29    page=0  chnl=15
+char id=65292 x=250   y=30    width=9     height=29    xoffset=0     yoffset=-1    xadvance=9     page=0  chnl=15

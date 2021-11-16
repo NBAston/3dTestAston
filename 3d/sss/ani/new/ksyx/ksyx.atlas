@@ -1,0 +1,643 @@
+
+ksyx.png
+size: 1924,912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ks/bg_01
+  rotate: false
+  xy: 0, 772
+  size: 1009, 140
+  orig: 1025, 175
+  offset: 8, 17
+  index: -1
+ks/ksxz_lights_001
+  rotate: false
+  xy: 1824, 29
+  size: 49, 76
+  orig: 500, 138
+  offset: 14, 51
+  index: -1
+ks/ksxz_lights_002
+  rotate: true
+  xy: 305, 5
+  size: 71, 109
+  orig: 500, 138
+  offset: 14, 26
+  index: -1
+ks/ksxz_lights_003
+  rotate: false
+  xy: 1742, 218
+  size: 85, 109
+  orig: 500, 138
+  offset: 14, 26
+  index: -1
+ks/ksxz_lights_004
+  rotate: false
+  xy: 352, 369
+  size: 100, 128
+  orig: 500, 138
+  offset: 14, 7
+  index: -1
+ks/ksxz_lights_005
+  rotate: true
+  xy: 1042, 266
+  size: 113, 128
+  orig: 500, 138
+  offset: 14, 7
+  index: -1
+ks/ksxz_lights_006
+  rotate: false
+  xy: 604, 21
+  size: 142, 128
+  orig: 500, 138
+  offset: 14, 7
+  index: -1
+ks/ksxz_lights_007
+  rotate: false
+  xy: 630, 266
+  size: 165, 128
+  orig: 500, 138
+  offset: 15, 7
+  index: -1
+ks/ksxz_lights_008
+  rotate: false
+  xy: 0, 107
+  size: 172, 128
+  orig: 500, 138
+  offset: 31, 7
+  index: -1
+ks/ksxz_lights_009
+  rotate: false
+  xy: 0, 237
+  size: 173, 128
+  orig: 500, 138
+  offset: 43, 7
+  index: -1
+ks/ksxz_lights_010
+  rotate: false
+  xy: 776, 111
+  size: 157, 123
+  orig: 500, 138
+  offset: 76, 7
+  index: -1
+ks/ksxz_lights_011
+  rotate: false
+  xy: 646, 647
+  size: 176, 123
+  orig: 500, 138
+  offset: 80, 7
+  index: -1
+ks/ksxz_lights_012
+  rotate: true
+  xy: 341, 208
+  size: 159, 110
+  orig: 500, 138
+  offset: 118, 20
+  index: -1
+ks/ksxz_lights_013
+  rotate: false
+  xy: 797, 236
+  size: 167, 110
+  orig: 500, 138
+  offset: 132, 20
+  index: -1
+ks/ksxz_lights_014
+  rotate: false
+  xy: 1646, 673
+  size: 173, 109
+  orig: 500, 138
+  offset: 147, 20
+  index: -1
+ks/ksxz_lights_015
+  rotate: false
+  xy: 1466, 670
+  size: 178, 113
+  orig: 500, 138
+  offset: 162, 16
+  index: -1
+ks/ksxz_lights_016
+  rotate: false
+  xy: 1455, 108
+  size: 164, 106
+  orig: 500, 138
+  offset: 186, 16
+  index: -1
+ks/ksxz_lights_017
+  rotate: true
+  xy: 1821, 739
+  size: 173, 103
+  orig: 500, 138
+  offset: 204, 16
+  index: -1
+ks/ksxz_lights_018
+  rotate: false
+  xy: 464, 527
+  size: 177, 114
+  orig: 500, 138
+  offset: 224, 16
+  index: -1
+ks/ksxz_lights_019
+  rotate: true
+  xy: 1341, 348
+  size: 165, 114
+  orig: 500, 138
+  offset: 258, 16
+  index: -1
+ks/ksxz_lights_020
+  rotate: true
+  xy: 1339, 183
+  size: 163, 114
+  orig: 500, 138
+  offset: 279, 16
+  index: -1
+ks/ksxz_lights_021
+  rotate: false
+  xy: 1457, 337
+  size: 165, 114
+  orig: 500, 138
+  offset: 289, 16
+  index: -1
+ks/ksxz_lights_022
+  rotate: true
+  xy: 1339, 23
+  size: 158, 114
+  orig: 500, 138
+  offset: 301, 16
+  index: -1
+ks/ksxz_lights_023
+  rotate: false
+  xy: 748, 0
+  size: 120, 109
+  orig: 500, 138
+  offset: 342, 21
+  index: -1
+ks/ksxz_lights_024
+  rotate: false
+  xy: 935, 114
+  size: 92, 109
+  orig: 500, 138
+  offset: 370, 21
+  index: -1
+ks/ksxz_lights_025
+  rotate: false
+  xy: 935, 4
+  size: 92, 108
+  orig: 500, 138
+  offset: 370, 21
+  index: -1
+ks/ksxz_lights_026
+  rotate: false
+  xy: 1840, 344
+  size: 83, 108
+  orig: 500, 138
+  offset: 379, 21
+  index: -1
+ks/ksxz_lights_027
+  rotate: false
+  xy: 870, 3
+  size: 56, 106
+  orig: 500, 138
+  offset: 406, 22
+  index: -1
+ks/ksxz_lights_028
+  rotate: false
+  xy: 132, 14
+  size: 39, 91
+  orig: 500, 138
+  offset: 423, 22
+  index: -1
+ks/ksxz_lights_029
+  rotate: false
+  xy: 748, 125
+  size: 19, 24
+  orig: 500, 138
+  offset: 443, 23
+  index: -1
+ks/ksyx_lights_001
+  rotate: false
+  xy: 1773, 28
+  size: 49, 77
+  orig: 500, 138
+  offset: 14, 50
+  index: -1
+ks/ksyx_lights_002
+  rotate: false
+  xy: 1759, 107
+  size: 71, 109
+  orig: 500, 138
+  offset: 14, 25
+  index: -1
+ks/ksyx_lights_003
+  rotate: false
+  xy: 1829, 218
+  size: 85, 109
+  orig: 500, 138
+  offset: 14, 25
+  index: -1
+ks/ksyx_lights_004
+  rotate: false
+  xy: 1358, 515
+  size: 100, 128
+  orig: 500, 138
+  offset: 14, 6
+  index: -1
+ks/ksyx_lights_005
+  rotate: false
+  xy: 334, 78
+  size: 113, 128
+  orig: 500, 138
+  offset: 14, 6
+  index: -1
+ks/ksyx_lights_006
+  rotate: false
+  xy: 1640, 438
+  size: 142, 128
+  orig: 500, 138
+  offset: 14, 6
+  index: -1
+ks/ksyx_lights_007
+  rotate: true
+  xy: 1042, 381
+  size: 165, 128
+  orig: 500, 138
+  offset: 15, 6
+  index: -1
+ks/ksyx_lights_008
+  rotate: false
+  xy: 177, 369
+  size: 173, 128
+  orig: 500, 138
+  offset: 30, 6
+  index: -1
+ks/ksyx_lights_009
+  rotate: false
+  xy: 1647, 784
+  size: 172, 128
+  orig: 500, 138
+  offset: 43, 6
+  index: -1
+ks/ksyx_lights_010
+  rotate: false
+  xy: 175, 129
+  size: 157, 123
+  orig: 500, 138
+  offset: 76, 6
+  index: -1
+ks/ksyx_lights_011
+  rotate: false
+  xy: 454, 270
+  size: 174, 123
+  orig: 500, 138
+  offset: 80, 6
+  index: -1
+ks/ksyx_lights_012
+  rotate: false
+  xy: 453, 158
+  size: 161, 110
+  orig: 500, 138
+  offset: 118, 19
+  index: -1
+ks/ksyx_lights_013
+  rotate: true
+  xy: 797, 348
+  size: 168, 111
+  orig: 500, 138
+  offset: 132, 18
+  index: -1
+ks/ksyx_lights_014
+  rotate: false
+  xy: 1011, 663
+  size: 177, 111
+  orig: 500, 138
+  offset: 146, 18
+  index: -1
+ks/ksyx_lights_015
+  rotate: false
+  xy: 1190, 659
+  size: 176, 115
+  orig: 500, 138
+  offset: 162, 14
+  index: -1
+ks/ksyx_lights_016
+  rotate: false
+  xy: 1455, 216
+  size: 163, 119
+  orig: 500, 138
+  offset: 186, 9
+  index: -1
+ks/ksyx_lights_017
+  rotate: false
+  xy: 625, 396
+  size: 170, 120
+  orig: 500, 138
+  offset: 203, 8
+  index: -1
+ks/ksyx_lights_018
+  rotate: false
+  xy: 1181, 537
+  size: 175, 120
+  orig: 500, 138
+  offset: 223, 8
+  index: -1
+ks/ksyx_lights_019
+  rotate: false
+  xy: 646, 518
+  size: 171, 127
+  orig: 500, 138
+  offset: 253, 8
+  index: -1
+ks/ksyx_lights_020
+  rotate: false
+  xy: 464, 643
+  size: 180, 127
+  orig: 500, 138
+  offset: 262, 8
+  index: -1
+ks/ksyx_lights_021
+  rotate: false
+  xy: 1466, 785
+  size: 179, 127
+  orig: 500, 138
+  offset: 283, 8
+  index: -1
+ks/ksyx_lights_022
+  rotate: false
+  xy: 819, 518
+  size: 162, 127
+  orig: 500, 138
+  offset: 303, 8
+  index: -1
+ks/ksyx_lights_023
+  rotate: false
+  xy: 449, 28
+  size: 153, 128
+  orig: 500, 138
+  offset: 319, 7
+  index: -1
+ks/ksyx_lights_024
+  rotate: true
+  xy: 174, 1
+  size: 126, 129
+  orig: 500, 138
+  offset: 347, 6
+  index: -1
+ks/ksyx_lights_025
+  rotate: true
+  xy: 1624, 329
+  size: 107, 129
+  orig: 500, 138
+  offset: 366, 6
+  index: -1
+ks/ksyx_lights_026
+  rotate: false
+  xy: 1368, 645
+  size: 91, 129
+  orig: 500, 138
+  offset: 382, 6
+  index: -1
+ks/ksyx_lights_027
+  rotate: true
+  xy: 1172, 2
+  size: 67, 120
+  orig: 500, 138
+  offset: 406, 6
+  index: -1
+ks/ksyx_lights_028
+  rotate: false
+  xy: 1712, 96
+  size: 45, 120
+  orig: 500, 138
+  offset: 428, 6
+  index: -1
+ks/ksyx_lights_029
+  rotate: true
+  xy: 983, 518
+  size: 28, 42
+  orig: 500, 138
+  offset: 445, 6
+  index: -1
+ks/tzxz_lights_001
+  rotate: false
+  xy: 1878, 454
+  size: 46, 111
+  orig: 500, 138
+  offset: 13, 23
+  index: -1
+ks/tzxz_lights_002
+  rotate: false
+  xy: 966, 225
+  size: 72, 121
+  orig: 500, 138
+  offset: 13, 16
+  index: -1
+ks/tzxz_lights_003
+  rotate: false
+  xy: 1621, 94
+  size: 89, 122
+  orig: 500, 138
+  offset: 13, 15
+  index: -1
+ks/tzxz_lights_004
+  rotate: true
+  xy: 0, 0
+  size: 105, 130
+  orig: 500, 138
+  offset: 13, 7
+  index: -1
+ks/tzxz_lights_005
+  rotate: true
+  xy: 1040, 151
+  size: 113, 130
+  orig: 500, 138
+  offset: 13, 7
+  index: -1
+ks/tzxz_lights_006
+  rotate: false
+  xy: 1029, 19
+  size: 141, 130
+  orig: 500, 138
+  offset: 13, 7
+  index: -1
+ks/tzxz_lights_007
+  rotate: true
+  xy: 910, 348
+  size: 168, 130
+  orig: 500, 138
+  offset: 15, 7
+  index: -1
+ks/tzxz_lights_008
+  rotate: false
+  xy: 454, 395
+  size: 169, 130
+  orig: 500, 138
+  offset: 31, 7
+  index: -1
+ks/tzxz_lights_009
+  rotate: false
+  xy: 0, 367
+  size: 175, 130
+  orig: 500, 138
+  offset: 41, 7
+  index: -1
+ks/tzxz_lights_010
+  rotate: false
+  xy: 1172, 409
+  size: 167, 126
+  orig: 500, 138
+  offset: 62, 7
+  index: -1
+ks/tzxz_lights_011
+  rotate: false
+  xy: 824, 649
+  size: 177, 121
+  orig: 500, 138
+  offset: 79, 7
+  index: -1
+ks/tzxz_lights_012
+  rotate: false
+  xy: 1172, 301
+  size: 165, 106
+  orig: 500, 138
+  offset: 113, 22
+  index: -1
+ks/tzxz_lights_013
+  rotate: false
+  xy: 1455, 0
+  size: 164, 106
+  orig: 500, 138
+  offset: 135, 22
+  index: -1
+ks/tzxz_lights_014
+  rotate: false
+  xy: 1461, 562
+  size: 177, 106
+  orig: 500, 138
+  offset: 143, 22
+  index: -1
+ks/tzxz_lights_015
+  rotate: false
+  xy: 1460, 453
+  size: 175, 107
+  orig: 500, 138
+  offset: 165, 17
+  index: -1
+ks/tzxz_lights_016
+  rotate: false
+  xy: 1646, 568
+  size: 164, 103
+  orig: 500, 138
+  offset: 186, 17
+  index: -1
+ks/tzxz_lights_017
+  rotate: true
+  xy: 1821, 567
+  size: 170, 103
+  orig: 500, 138
+  offset: 207, 17
+  index: -1
+ks/tzxz_lights_018
+  rotate: false
+  xy: 1003, 548
+  size: 176, 113
+  orig: 500, 138
+  offset: 225, 17
+  index: -1
+ks/tzxz_lights_019
+  rotate: false
+  xy: 1172, 186
+  size: 165, 113
+  orig: 500, 138
+  offset: 258, 17
+  index: -1
+ks/tzxz_lights_020
+  rotate: false
+  xy: 177, 254
+  size: 162, 113
+  orig: 500, 138
+  offset: 280, 17
+  index: -1
+ks/tzxz_lights_021
+  rotate: false
+  xy: 1172, 71
+  size: 165, 113
+  orig: 500, 138
+  offset: 289, 17
+  index: -1
+ks/tzxz_lights_022
+  rotate: false
+  xy: 616, 151
+  size: 158, 113
+  orig: 500, 138
+  offset: 301, 17
+  index: -1
+ks/tzxz_lights_023
+  rotate: false
+  xy: 1620, 218
+  size: 120, 109
+  orig: 500, 138
+  offset: 342, 21
+  index: -1
+ks/tzxz_lights_024
+  rotate: true
+  xy: 1621, 0
+  size: 92, 109
+  orig: 500, 138
+  offset: 370, 21
+  index: -1
+ks/tzxz_lights_025
+  rotate: false
+  xy: 1784, 457
+  size: 92, 108
+  orig: 500, 138
+  offset: 370, 21
+  index: -1
+ks/tzxz_lights_026
+  rotate: false
+  xy: 1755, 329
+  size: 83, 107
+  orig: 500, 138
+  offset: 379, 22
+  index: -1
+ks/tzxz_lights_027
+  rotate: false
+  xy: 1832, 110
+  size: 56, 106
+  orig: 500, 138
+  offset: 406, 23
+  index: -1
+ks/tzxz_lights_028
+  rotate: false
+  xy: 1732, 3
+  size: 39, 91
+  orig: 500, 138
+  offset: 423, 23
+  index: -1
+ks/tzxz_lights_029
+  rotate: false
+  xy: 776, 239
+  size: 19, 25
+  orig: 500, 138
+  offset: 443, 23
+  index: -1
+ks/word_ksxz
+  rotate: false
+  xy: 0, 499
+  size: 451, 134
+  orig: 500, 138
+  offset: 13, 1
+  index: -1
+ks/word_ksyx
+  rotate: false
+  xy: 0, 635
+  size: 462, 135
+  orig: 500, 138
+  offset: 13, 0
+  index: -1
+ks/word_tzxz
+  rotate: false
+  xy: 1011, 776
+  size: 453, 136
+  orig: 500, 138
+  offset: 11, 1
+  index: -1
